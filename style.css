@@ -1,34 +1,6 @@
-html, body {
-  margin: 0;
-  padding: 0;
-  height: 100%;
-  background: #363535;
-  overflow: hidden;
-  -webkit-tap-highlight-color: transparent;
-}
-
-/* Full-screen invisible tap target */
-#tapzone {
-  position: fixed;
-  inset: 0;
-  background: #ffffff;
-  z-index: 10;
-  cursor: pointer;
-}
-
-/* Video container: hidden until first tap */
-#videowrap {
-  position: fixed;
-  inset: 0;
-  display: none;
-  background: #000;
-}
-
-#videowrap.active {
-  display: block;
-}
-
-#player {
-  width: 100%;
-  height: 100%;
+*{
+  width:auto;
+  height:auto;
+  color:black;
+  text-color:white;
 }
