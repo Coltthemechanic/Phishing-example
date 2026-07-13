@@ -6,6 +6,8 @@ body{
 #picture{
   border-radius: 15px;
   padding: 10px;
+  height:75px;
+  width:75px;
 }
 #submit{
   width:auto;
