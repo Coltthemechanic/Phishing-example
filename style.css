@@ -10,6 +10,11 @@ body{
   width:75px;
 }
 #submit{
-  width:auto;
-  height:auto
+  width:75px;
+  height: 30px;
+  background-color:rgb(134, 45, 161);
+  text-align: center;
+  color: white;
+  font-size: 15px;
+  border-radius: 15px;
 }
